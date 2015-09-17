@@ -1,5 +1,6 @@
 # alchemy-2
 Implementation of lifted inference algorithms
+
 Alchemy 2.0 is a software package for inference and learning in Markov logic networks (MLNs). As the name suggests, Alchemy 2.0 is based on the Alchemy software package. The novelty in Alchemy 2.0 is that it includes several lifted probabilistic inference algorithms. Alchemy allows you to easily develop a wide range of AI applications, including:
 
 Collective classification
